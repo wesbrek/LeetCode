@@ -14,7 +14,7 @@ public class Solution {
 
 
     //My first solution
-    public int[] OldtwoSum(int [] nums, int target) {
+    public int[] oldtwoSum(int [] nums, int target) {
         int[] twoSum = new int[2];
 
         for (int i = 0; i < nums.length; i++) {
